@@ -9,3 +9,4 @@ I’m a front-end developer focused on building efficient, scalable, and user-ce
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a sweet dog named Meatball
+- 🎮 Currently Playing: Star Wars: Jedi Survivor, Planet of Lana, Inscruption
