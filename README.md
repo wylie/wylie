@@ -6,7 +6,8 @@ I’m a front-end developer focused on building efficient, scalable, and user-ce
 - 🌱 I’m currently learning: I'm working on enhancing my Javascript and Python skills over at Codecademy
 - 💬 Ask me about: anything
 - 📫 How to reach me: me@wyliefisher.com
-- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/)
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/), [Goodreads](https://www.goodreads.com/user/show/7199856-wylie), [Playstation](https://profile.playstation.com/Mechascopic)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a sweet dog named Meatball
 - 🎮 Currently Playing: Star Wars: Jedi Survivor, Planet of Lana, Inscruption
+- 📚 Currently Reading: The Library of the Dead, Radical Inclusion, Star Wars: Out of the Shadows, Thistlefoot
