@@ -1,4 +1,4 @@
-## Hi there, I'm Wylie 👋
+## Ahoy, I'm Wylie 👋
 
 I’m a front-end developer focusing on building efficient, scalable, and user-centric solutions. With a background in UI consistency through component libraries, I love creating seamless experiences on the web.
 
