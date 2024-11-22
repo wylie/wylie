@@ -3,7 +3,7 @@
 I’m a front-end developer focusing on building efficient, scalable, and user-centric solutions. With a background in UI consistency through component libraries, I love creating seamless experiences on the web.
 
 - 🔭 I’m currently working on: cleaning up repos and deploying on GitHub pages
-- 🌱 I’m currently learning: enhancing my Javascript and Python skills over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
+- 🌱 I’m currently learning: Javascript and Python skills over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: anything
 - 🎮 Currently Playing: Star Wars: Jedi Survivor, Planet of Lana, Inscription
 - 📚 Currently Reading: The Library of the Dead, The Color of Law, Star Wars: Out of the Shadows
