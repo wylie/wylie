@@ -2,7 +2,7 @@
 
 I’m a front-end developer focusing on building efficient, scalable, and user-centric solutions. With a background in UI consistency through component libraries, I love creating seamless experiences on the web.
 
-- 🔭 I’m currently working on: cleaning up repos and deploying on GitHub pages
+- 🔭 I’m currently working on: my resume, [Santa Commands It!](https://wylie.github.io/SantaCommandsIt/)
 - 🌱 I’m currently learning: Javascript and Python skills over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: anything
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Inscription
