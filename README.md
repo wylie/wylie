@@ -5,8 +5,8 @@ I’m a front-end developer focusing on building efficient, scalable, and user-c
 - 🔭 I’m currently working on: my resume, [Santa Commands It!](https://wylie.github.io/SantaCommandsIt/)
 - 🌱 I’m currently learning: Javascript and Python skills over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: anything
-- 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Inscription
-- 📚 Currently Reading: The Bright Sword, Revenge of the Tipping Point, Star Wars: Out of the Shadows, Don't Fear the Creeper
+- 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Dead Cells
+- 📚 Currently Reading: The Bright Sword, Revenge of the Tipping Point, Weyward, A Marvellous Light, Don't Fear the Creeper
 - ⚡ Fun fact: I have a sweet dog named Meatball
 - 📫 How to reach me: me@wyliefisher.com
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/), [Goodreads](https://www.goodreads.com/user/show/7199856-wylie), [Playstation](https://profile.playstation.com/Mechascopic)
