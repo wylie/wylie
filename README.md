@@ -6,7 +6,7 @@ I’m a front-end developer focusing on building efficient, scalable, and user-c
 - 🌱 I’m currently learning: Javascript and Python skills over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: anything
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Dead Cells
-- 📚 Currently Reading: Star Wars: Out of the Shadows, The Power of Regret, Weyward, A Marvellous Light, Don't Fear the Creeper
+- 📚 Currently Reading: Star Wars: Out of the Shadows, The Power of Regret, Weyward, A Marvellous Light
 - ⚡ Fun fact: I have a sweet dog named Meatball
 - 📫 How to reach me: me@wyliefisher.com
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/), [Goodreads](https://www.goodreads.com/user/show/7199856-wylie), [Playstation](https://profile.playstation.com/Mechascopic)
