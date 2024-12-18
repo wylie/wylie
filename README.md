@@ -6,7 +6,7 @@ I’m a front-end developer focusing on building efficient, scalable, and user-c
 - 🌱 I’m currently learning: I'm working through the **Front-End Engineer** Career Path over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: anything
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Dead Cells
-- 📚 Currently Reading: Star Wars: _Out of the Shadows_, _The Power of Regret_, _Weyward_, _A Marvellous Light_, _Minecraft: The Island_
+- 📚 Currently Reading: Star Wars: _Out of the Shadows_, _Weyward_, _A Marvellous Light_, _Minecraft: The Island_
 - ⚡ Fun fact: I have a sweet dog named **Meatball**
 - 📫 How to reach me: me@wyliefisher.com
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/), [Goodreads](https://www.goodreads.com/user/show/7199856-wylie), [Playstation](https://profile.playstation.com/Mechascopic)
