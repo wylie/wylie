@@ -4,7 +4,7 @@ I’m a front-end developer focusing on building efficient, scalable, and user-c
 
 - 🔭 I’m currently working on: my resume and [Santa Commands It!](https://wylie.github.io/SantaCommandsIt/)
 - 🌱 I’m currently learning: I'm working through the **Front-End Engineer** Career Path over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
-- 💬 Ask me about: my **garden✱
+- 💬 Ask me about: my **garden** 
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Lego Fortnite, Dead Cells
 - 📚 Currently Reading: _The Night Country_, _The City of Ember_, _Lifeform_, _Minecraft: The Island_
 - ⚡ Fun fact: I have a sweet dog named **Meatball**
