@@ -2,7 +2,7 @@
 
 I’m a front-end developer focusing on building efficient, scalable, and user-centric solutions. With a background in UI consistency through component libraries, I love creating seamless experiences on the web.
 
-- 🔭 I’m currently working on: applying to jobs and a [Star Wars list!](https://wylie.github.io/starwars/)
+- 🔭 I’m currently working on: applying to jobs and a [Star Wars Timeline!](https://wylie.github.io/starwars/)
 - 🌱 I’m currently learning: I'm working through the **Front-End Engineer** Career Path over at [Codecademy](https://www.codecademy.com/profiles/wyliefisher)
 - 💬 Ask me about: my **garden** 
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Lego Fortnite, Dead Cells, Lego Star Wars: The Skywalker Saga
