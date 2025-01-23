@@ -2,7 +2,7 @@
 
 I’m a front-end developer focusing on building efficient, scalable, and user-centric solutions. With a background in UI consistency through component libraries, I love creating seamless experiences on the web.
 
-- 🔭 I’m currently working on: applying to jobs and a [Nerds (Star Wars) Timeline!](https://nerdstimeline.com)
+- 🔭 I’m currently working on: applying to jobs, a [Nerds (Star Wars) Timeline!](https://nerdstimeline.com), and an [aggressive Santa](https://wylie.github.io/santacommandsir)
 - 🌱 I’m currently learning: JavaScript and Python at [Codecademy](https://www.codecademy.com/profiles/wyliefisher) and [LeetCode](https://leetcode.com/u/wyliefisher/)
 - 💬 Ask me about: my **garden** 
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Lego Fortnite, Dead Cells, Lego Star Wars: The Skywalker Saga
