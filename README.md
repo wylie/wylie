@@ -6,7 +6,7 @@ I’m a front-end developer focusing on building efficient, scalable, and user-c
 - 🌱 I’m currently learning: JavaScript and Python at [Codecademy](https://www.codecademy.com/profiles/wyliefisher) and [LeetCode](https://leetcode.com/u/wyliefisher/)
 - 💬 Ask me about: my **garden** 
 - 🎮 Currently Playing: Star Wars Outlaws, Planet of Lana, Lego Fortnite, Lego Star Wars: The Skywalker Saga, Minecraft
-- 📚 Currently Reading: _Our Lady of Mysterious Ailments_, _Tress of the Emerald Sea_, _Stone Blind_, _Minecraft: The Village_, _Theft by Finding_
+- 📚 Currently Reading: _Our Lady of Mysterious Ailments_, _Tress of the Emerald Sea_, _Cabin_, _Minecraft: The Village_, _Theft by Finding_
 - ⚡ Fun fact: I have a sweet dog named **Meatball**
 - 📫 How to reach me: me@wyliefisher.com
 - 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/wyliefisher/), [Goodreads](https://www.goodreads.com/user/show/7199856-wylie), [Playstation](https://profile.playstation.com/Mechascopic)
